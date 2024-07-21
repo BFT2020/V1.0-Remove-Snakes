@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="BFT2020_RemovedSnakes" />
+	<DisplayName value="BFT2020 Replace snakes with hostile rabits" />
+	<Description value="Repalces the snakes with hostile rabbits for those who don't like snakes" />
+	<Author value="BFT2020" />
+	<Version value="1.1.0.1" />
+	<Website value="" />
+	<SkipWithAntiCheat value="false" />
+</xml>
